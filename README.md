@@ -2,27 +2,25 @@
 
 ## I'm a FrontEnd Developer
 
+- 💪 I like to write code
+- 🥅 I am constantly learning new things
+- ⚡ I like develop beautiful and interesting apps
+
 ### Connect with me:
 
-[<img align="left" alt="cv" width="30px" src="https://img.icons8.com/nolan/64/parse-from-clipboard.png" />][cv]
-[<img align="left" alt="telegram" width="30px" src="https://img.icons8.com/nolan/64/telegram-app.png" />][telegram]
-[<img align="left" alt="phone" width="30px" src="https://img.icons8.com/nolan/64/apple-phone.png" />][phone]
+[<img align="left" alt="cv" width="64px" src="https://img.icons8.com/nolan/64/parse-from-clipboard.png" />][cv]
+[<img align="left" alt="telegram" width="64px" src="https://img.icons8.com/nolan/64/telegram-app.png" />][telegram]
 
-<!--
-**DaryaEnina/DaryaEnina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+### Languages and Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" alt="HTML5" width="64px" src="https://img.icons8.com/nolan/64/html-5.png" />
+<img align="left" alt="CSS" width="64px" src="https://img.icons8.com/nolan/64/css-filetype.png" />
+<img align="left" alt="JavaScript" width="64px" src="https://img.icons8.com/nolan/64/javascript.png" />
+<img align="left" alt="React" width="64px" src="https://img.icons8.com/nolan/64/react-native.pn" />
+<img align="left" alt="GitHub" width="64px" src="https://img.icons8.com/nolan/64/github.pn" />
+<img align="left" alt="WebPack" width="64px" src="hhttps://img.icons8.com/dusk/64/000000/webpack.png" />
 
 [cv]: https://daryaenina.github.io/CV/
 [telegram]: https://t.me/DaryaRaud
-[phone]: +375333317819
