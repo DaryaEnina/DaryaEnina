@@ -4,9 +4,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="cv" width="22px" src="https://img.icons8.com/nolan/64/parse-from-clipboard.png" />][cv]
-[<img align="left" alt="telegram" width="22px" src="https://img.icons8.com/nolan/64/telegram-app.png" />][telegram]
-[<img align="left" alt="telegram" width="22px"src="https://img.icons8.com/nolan/64/apple-phone.png" />][phone]
+[<img align="left" alt="cv" width="30px" src="https://img.icons8.com/nolan/64/parse-from-clipboard.png" />][cv]
+[<img align="left" alt="telegram" width="30px" src="https://img.icons8.com/nolan/64/telegram-app.png" />][telegram]
+[<img align="left" alt="phone" width="30px" src="https://img.icons8.com/nolan/64/apple-phone.png" />][phone]
 
 <!--
 **DaryaEnina/DaryaEnina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
