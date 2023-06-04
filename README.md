@@ -8,7 +8,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="cv" width="64px" src="https://img.icons8.com/nolan/64/parse-from-clipboard.png" />][cv]
 [<img align="left" alt="telegram" width="64px" src="https://img.icons8.com/nolan/64/telegram-app.png" />][telegram]
 
 <br />
@@ -23,5 +22,14 @@
 <img align="left" alt="GitHub" width="64px" src="https://img.icons8.com/nolan/64/github.png" />
 <img align="left" alt="WebPack" width="64px" src="https://img.icons8.com/dusk/64/000000/webpack.png" />
 
-[cv]: https://daryaenina.github.io/CV/
+<br />
+<br />
+
+### My CV: 
+[<img align="left" alt="cv" width="64px" src="https://img.icons8.com/nolan/64/parse-from-clipboard.png" />][cv]
+
+<br />
+<br />
+
+[cv]: [<img align="left" alt="cv" width="64px" src="https://img.icons8.com/nolan/64/parse-from-clipboard.png" />][cv]
 [telegram]: https://t.me/DaryaRaud
