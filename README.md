@@ -2,7 +2,7 @@
 
 ## I'm a FrontEnd Developer
 
-- 💪 I like to write code
+- 💪 Over a 1 year of development experience
 - 🥅 I am constantly learning new things
 - ⚡ I like develop beautiful and interesting apps
 
@@ -25,11 +25,9 @@
 <br />
 <br />
 
-### My CV: 
+### My CV:
+
 [<img align="left" alt="cv" width="64px" src="https://img.icons8.com/nolan/64/parse-from-clipboard.png" />][cv]
 
-<br />
-<br />
-
-[cv]: [<img align="left" alt="cv" width="64px" src="https://img.icons8.com/nolan/64/parse-from-clipboard.png" />][cv]
+[cv]: https://drive.google.com/drive/folders/1ew7mkdFj501mjDD9eJlUSyTeO9zeuYQo
 [telegram]: https://t.me/DaryaRaud
